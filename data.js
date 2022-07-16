@@ -23,7 +23,7 @@ const characterData = {
     },
     goblin: {
         name: "Goblin",
-        avatar: "images/goblin-pixabay.jpg",
+        avatar: "images/goblin-pixabay.png",
         health: 20,
         diceCount: 3,
         currentDiceScore: []
